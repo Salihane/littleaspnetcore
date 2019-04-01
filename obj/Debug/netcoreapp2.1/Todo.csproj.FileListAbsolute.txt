@@ -34,3 +34,4 @@ C:\Users\salim.ben.hadou\Admin\littleasp.netcore\netcore\Todo\obj\Debug\netcorea
 C:\Users\salim.ben.hadou\Admin\littleasp.netcore\netcore\Todo\obj\Debug\netcoreapp2.1\Todo.dll
 C:\Users\salim.ben.hadou\Admin\littleasp.netcore\netcore\Todo\obj\Debug\netcoreapp2.1\Todo.pdb
 C:\Users\salim.ben.hadou\Admin\littleasp.netcore\netcore\Todo\obj\Debug\netcoreapp2.1\Todo.csproj.CopyComplete
+C:\Users\salim.ben.hadou\Admin\littleasp.netcore\netcore\Todo\obj\Debug\netcoreapp2.1\Razor\Views\Todos\Index.g.cshtml.cs
